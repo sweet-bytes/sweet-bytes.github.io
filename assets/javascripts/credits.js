@@ -9,20 +9,8 @@ Segredario.Credits.prototype = {
     this.createText();
     this.createBMG();
 
-    this.createTitle('- Super Segredário -');
+    this.createTitle('- Super Sweety -');
 
-    this.createParagraph('Mauro George');
-    this.createTitle('Director');
-    this.createParagraph('Mauro George');
-
-    this.createTitle('Special Thanks');
-    this.createParagraph('Maria Nilza');
-    this.createParagraph('José Mauro');
-    this.createParagraph('Gilton Monteiro');
-    this.createParagraph('Heloisa Pereira');
-    this.createParagraph('Julio Monteiro');
-    this.createParagraph('Matheus Brás');
-    this.createParagraph('Cayo Medeiros(Yogodoshi)');
     this.createParagraph('Nintendo');
 
     this.createTitle('HTML5 Game Framework');

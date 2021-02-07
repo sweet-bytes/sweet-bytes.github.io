@@ -221,12 +221,12 @@ Segredario.Game.prototype = {
   },
 
   npcs: [
-    { gid: 675, name: 'mario', message: 'Sweety, I know that somethings are already decided for us, but you love films and let\'s be a little filmy right now...go to the castle someone\'s waiting for you there' },
+    { gid: 675, name: 'mario', message: 'Sweety, let\'s be a little filmy right now...go to the castle someone\'s waiting for you there' },
     { gid: 676, name: 'yoshi', message: 'Welcome to my world! It\'s crazy, you\'ll love it' },
-    { gid: 677, name: 'luigi', message: 'Not everything in the game would be about you...go on!!' },
+    { gid: 677, name: 'luigi', message: 'Wow...this guy at the castle is really cheesy...do you know him?' },
     { gid: 678, name: 'toad', message: 'Really happy to see you here...' },
-    { gid: 679, name: 'dk', message: 'Did you forget about the guy waiting at the castle???' },
-    { gid: 680, name: 'diddy', message: 'Where are the bananas?' },
+    { gid: 679, name: 'dk', message: 'Kya bole hum...rehne do' },
+    { gid: 680, name: 'diddy', message: 'Kaafi late ho gaya hai na? So jaaye?' },
     { gid: 681, name: 'fox', message: 'Thank you for the roses!' },
     { gid: 682, name: 'pikachu', message: 'Pika, pika, pikachu!' },
     { gid: 683, name: 'link', message: 'It\'s too dangerous for you to go alone, you should call \"cheesy\"\' for help'},
