@@ -53,13 +53,13 @@ Segredario.Finale.prototype = {
   },
 
   mauroText: [
-              'Que bom que passou dessa fase.',
-              'Você sabe que é muito importante para mim, e sei que sou para você também.',
-              'Não gostaria de te ver perdendo, de qualquer modo estou aqui e sempre estarei para te apoiar.',
+              'Glad you were able to meet me here...',
+              'You know..you are really important to me and I know I\'m to you too',
+              'I would not like to see you lose, anyway I am here and I will always be there to support you.',
               'Agora que passou dessa fase, se inicia mais uma em nossas vidas, uma bem importante.',
-              'Onde iremos compartilhar ainda mais nossas vidas em nosso co-op que começou há muito tempo.',
-              'E então quer iniciar a nova fase?',
-              'Jéssica Monteiro quer se casar comigo?'
+              'Now that this phase is over, another one begins in our lives, an important one.',
+              'And then you want to start the new phase?',
+              'Swati Dargar would you like to spend the rest of your life with me?'
              ],
   textIndex: 0,
   textSpeed: 10,
