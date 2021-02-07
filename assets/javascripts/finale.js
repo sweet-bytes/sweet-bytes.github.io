@@ -56,10 +56,10 @@ Segredario.Finale.prototype = {
               'Glad you were able to meet me here...',
               'Even though somethings are decided for us, I would like to try it once the old-fashioned way',
               'You are really important to me and I know that I am to you too',
-              'I would not like to see you lose, anyway I am here and I will always be there to support you.',
+              'I would not like to see you lose, I am and always be here to support you.',
               'Now that this phase is over, another one begins in our lives, an important one.',
-              'Are you excited to start the new phase with me?',
-              'Swati Dargar would you like to spend the rest of your life with me?'
+              'Are you excited to step into this new phase of your life?',
+              'Miss Swati Dargar would you like to spend the rest of your life with me?'
              ],
   textIndex: 0,
   textSpeed: 10,

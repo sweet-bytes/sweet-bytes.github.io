@@ -226,9 +226,9 @@ Segredario.Game.prototype = {
     { gid: 677, name: 'luigi', message: 'Wow...this guy at the castle is really cheesy...do you know him?' },
     { gid: 678, name: 'toad', message: 'Really happy to see you here...' },
     { gid: 679, name: 'dk', message: 'Kya bole hum...rehne do' },
-    { gid: 680, name: 'diddy', message: 'Kaafi late ho gaya hai na? So jaaye?' },
+    { gid: 680, name: 'diddy', message: '\"Kaafi late ho gaya hai\"' },
     { gid: 681, name: 'fox', message: 'Thank you for the roses!' },
-    { gid: 682, name: 'pikachu', message: 'Pika, pika, pikachu!' },
+    { gid: 682, name: 'pikachu', message: 'Sorry, Invite-Only Puchkas' },
     { gid: 683, name: 'link', message: 'It\'s too dangerous for you to go alone, you should call \"cheesy\"\' for help'},
   ],
 
