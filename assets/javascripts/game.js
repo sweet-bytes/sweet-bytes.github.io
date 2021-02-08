@@ -224,7 +224,7 @@ Segredario.Game.prototype = {
     { gid: 675, name: 'mario', message: 'Sweety, let\'s be a little filmy right now...go to the castle someone\'s waiting for you there' },
     { gid: 676, name: 'yoshi', message: 'Welcome to my world! It\'s crazy, you\'ll love it' },
     { gid: 677, name: 'luigi', message: 'Wow...this guy at the castle is really cheesy...do you know him?' },
-    { gid: 678, name: 'toad', message: 'Btw...who\'s this pretty lady next to you....Nupur?' },
+    { gid: 678, name: 'toad', message: 'Really great to see you here...' },
     { gid: 679, name: 'dk', message: 'Kya bole hum...rehne do' },
     { gid: 680, name: 'diddy', message: '\"Kaafi late ho gaya hai\"' },
     { gid: 681, name: 'fox', message: 'Thank you for the roses!' },
