@@ -228,7 +228,7 @@ Segredario.Game.prototype = {
     { gid: 679, name: 'dk', message: 'Kya bole hum...rehne do' },
     { gid: 680, name: 'diddy', message: '\"Kaafi late ho gaya hai\"' },
     { gid: 681, name: 'fox', message: 'Thank you for the roses!' },
-    { gid: 682, name: 'pikachu', message: 'Sorry, Invite-Only Puchkas' },
+    { gid: 682, name: 'pikachu', message: 'Sorry, Ganges me aana not allowed....go away' },
     { gid: 683, name: 'link', message: 'It\'s too dangerous for you to go alone, you should call \"cheesy\"\' for help'},
   ],
 
